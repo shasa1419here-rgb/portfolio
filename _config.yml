@@ -1,5 +1,9 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+title: "shasa"
+description: "My  portfolio website"
+baseurl: "" 
+url: ""     
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: shasa
-description: entrapreneur,trader,esport player
+  - jekyll-remote-theme
+
+remote_theme: <shasa>/<black> 
